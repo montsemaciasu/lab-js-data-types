@@ -8,11 +8,11 @@ const s4 = "bread";
 const s5 = "and";
 
 // Concatenate the string variables into one new string
-
+const space = " "
+const tongueTwister = s1 + space + s2 + space + s3 + space + s4 + space + s5 + space + s3 + space + s2 + space + s1 + space + s4
 
 // Print out the concatenated string
-
-
+console.log(tongueTwister)
 
 
 /*******************************************
